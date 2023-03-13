@@ -1,0 +1,17 @@
+@import "modern-normalize/modern-normalize.css";
+@import "aos/dist/aos.css";
+@import "variables";
+@import "mixins";
+@import "effects";
+@import "base";
+@import "styles";
+
+// body {
+//     @include breakpoint("large") {
+//         background-color: blue;
+//     }
+
+//     @include breakpoint("wide") {
+//         background-color: red;
+//     }
+// }
